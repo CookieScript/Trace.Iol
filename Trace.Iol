@@ -7,7 +7,7 @@ Dailyupdates = 1week-2months
 Paid = no😍
 supportedexecuter = "Delta", "Arceus", "Fluxes", "Codex", "Solara", "Hydrogen", "Synapse z",
 Notsupported = "Luas😍"
-antiCheckdetecter = kinda🤨😞😔
+AntiCheatdetecter = kinda🤨😞😔
 
 --]]
 
